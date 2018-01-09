@@ -13,12 +13,20 @@
 		img#responsive {
 			display: none;
 		}
+		p {
+			font-size: 16px;
+			color:peru;
+		  }
 		@media screen and (max-width: 768px){ 
 			img#responsive {
 				display: block;
 			}
+			img#acustica {
+				display: none;
+			}
 			p {
 				text-align: center;
+				color:#EDC566;
 			}
 		}
 	</style>
@@ -28,6 +36,6 @@
 	<img src="img/header.jpg">
 	<img src="img/hero.jpg">
 	<p>Encutra las mejores guitarras aquí, con nosotros :)</p>
-	<img src="img/acustica.jpg">
+	<img src="img/acustica.jpg" id="acustica">
 </body>
 </html>
