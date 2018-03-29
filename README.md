@@ -32,7 +32,8 @@ Curso profesional de git y github de platzi
 28. Cherry pick eligiendo commit selectivamente
 29. Desafio
 
-##GitHub
+## GitHub
+
 30. Creando una cuenta en GitHub
 31. git clone / fork (Clonando repositorios remotos)
 32. Añadiendo una llave ssh a GitHub
